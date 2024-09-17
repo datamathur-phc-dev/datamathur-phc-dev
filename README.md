@@ -1,6 +1,6 @@
 # Introducing DataMathur 🍵
 
-Hi there 👋! I am **[Utkarsh Mathur](https://datamathur.github.io/)**, ***a.k.a. DataMathur***, a 24-year-old new-grad with **MS in Data Science** from University at Buffalo, **B.Tech. from IIT Roorkee**, and **2 years of experience** in Data Science, Software Engineering, and Data Engineering. I am currently working as a **Data Scientist** at **[Atriano](https://www.atriano.com/)** and **Data Science Intern** at **[Project Human City](https://www.projecthumancity.com/)**
+Hi there 👋! I am **[Utkarsh Mathur](https://datamathur.github.io/)**, ***a.k.a. DataMathur***, a 24-year-old new-grad with **MS in Data Science** from University at Buffalo, **B.Tech. from IIT Roorkee**, and **2 years of experience** in Data Science, Software Engineering, and Data Engineering. I am currently working as a **Data Scientist** at **[Atriano](https://www.atriano.com/)** and **Data Science Intern** at **[Project Human City](https://www.projecthumancity.com/)**.
 
 I am passionate about leveraging my skills to develop scalable AI/ML software and services as well as picking up new skills on the way. My expertise spans **programming** (Python, C++, SQL, R, Perl, and JavaScript), **machine learning**, **data engineering**, and **software development**, and I am eager to apply these skills in an IT setting to drive innovation and deliver impactful solutions.
 
